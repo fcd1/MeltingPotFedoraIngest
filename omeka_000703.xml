@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">omeka_000703</identifier>
+   <titleInfo>
+      <title>Letter from Kornei Chukovskii to Mirra Ginsburg, two pages and envelope</title>
+    </titleInfo>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>correspondence</form>
+    </physicalDescription>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1965-09-12</dateCreated>
+      <dateCreated>September 12, 1965</dateCreated>
+      <place>
+        <placeTerm type="text">Peredelkino, Moscow, Russia</placeTerm>
+      </place>
+    </originInfo>
+   <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/writers/chukovskii_letter</url>
+      <holdingSimple>
+        <copyInformation>
+            <subLocation>Bakhmeteff Archive of Russian and East European History and Culture</subLocation>
+        </copyInformation>
+      </holdingSimple>
+    </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+        <title>The Melting Pot: Russian Jewish New York</title>
+      </titleInfo>
+      <location>
+        <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio8012143</url>
+      </location>
+    </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+        <title>Mirra Ginsburg Papers</title>
+      </titleInfo>
+    </relatedItem>
+   <note type="ownership">Gift of Barbara Frenchi, 2002</note>
+   <note>original filename: 3_12_02.tif</note>
+   <note>original filename: 3_12_03.tif</note>
+   <note>original filename: 3_12_01.tif</note>
+   <name>
+      <namePart>Chukovskiĭ, K. I. (Korneĭ Ivanovich), 1882-1969</namePart>
+    </name>
+   <name>
+      <namePart>Ginsburg, Mirra</namePart>
+    </name>
+   <subject/>
+   <abstract>In his letter to Mirra Ginsburg sent from Peredelkino and dated September 12, 1965, Kornei Chukovskii writes: “My dear friend, I know your name quite well. I have read in your translations Taibele and her Demon, Big and Little, The Fast Gimpel and would not hesitate to rank you as I rank such masters of translation as my beloved Saul Bellow, the translator of Gimpel the Fool. Of course, I understand how excruciating it is to translate Isaac Bashevis Singer but in your translation I can sense an unattainable original. I haven’t finished reading your translation yet but I really liked it. There is not a gram of hack-work, as often happen with American translators (Guerney, Babette Deutsch and others).  You are not a craftsman, you are an artist.”</abstract>
+   <typeOfResource>still image</typeOfResource>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">rus</languageTerm>
+    </language>
+   <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+</mods>

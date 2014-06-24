@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">omeka_000696</identifier>
+   <titleInfo>
+      <title>Isaak Babel with his daughter</title>
+    </titleInfo>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>photographs</form>
+    </physicalDescription>
+   <originInfo>
+      <dateCreated encoding="w3cdtf"
+                   keyDate="yes"
+                   point="start"
+                   qualifier="inferred">1914</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1940</dateCreated>
+      <dateCreated>Between 1914 and 1940</dateCreated>
+    </originInfo>
+   <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/writers/babel</url>
+      <holdingSimple>
+        <copyInformation>
+            <subLocation>Bakhmeteff Archive of Russian and East European History and Culture</subLocation>
+        </copyInformation>
+      </holdingSimple>
+    </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+        <title>The Melting Pot: Russian Jewish New York</title>
+      </titleInfo>
+      <location>
+        <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio8012143</url>
+      </location>
+    </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+        <title>Avrahm Yarmolinsky Papers</title>
+      </titleInfo>
+    </relatedItem>
+   <note type="ownership">Gift of Avrahm Yarmolinsky, 1959-60, 1970</note>
+   <note>original filename: 3_07_01.tif</note>
+   <name>
+      <namePart>Congrat-Butlar, Stefan</namePart>
+    </name>
+   <subject>
+      <topic>Babelʹ, I. (Isaak), 1894-1940</topic>
+    </subject>
+   <typeOfResource>still image</typeOfResource>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+   <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+</mods>

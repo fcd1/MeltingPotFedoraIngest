@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">omeka_000794</identifier>
+   <titleInfo>
+      <title>Letter from Harry Miller Lydenberg to the Secretary of State</title>
+    </titleInfo>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>correspondence</form>
+    </physicalDescription>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1940-10-11</dateCreated>
+      <dateCreated>October 11, 1940</dateCreated>
+      <place>
+        <placeTerm type="text">New York (N.Y.)</placeTerm>
+      </place>
+    </originInfo>
+   <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/artists/lydenberg</url>
+      <holdingSimple>
+        <copyInformation>
+            <subLocation>Bakhmeteff Archive of Russian and East European History and Culture</subLocation>
+        </copyInformation>
+      </holdingSimple>
+    </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+        <title>The Melting Pot: Russian Jewish New York</title>
+      </titleInfo>
+      <location>
+        <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio8012143</url>
+      </location>
+    </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+        <title>Simon Lissim Papers</title>
+      </titleInfo>
+    </relatedItem>
+   <note type="ownership">Gift of Simon Lissim, 1981 and Dorothea Waples Lissim, 1982</note>
+   <note>original filename: 5_18_01.tif</note>
+   <name>
+      <namePart>Lydenberg, Harry Miller, 1874-1960</namePart>
+    </name>
+   <name>
+      <namePart>United States. Department of State</namePart>
+    </name>
+   <name>
+      <namePart>Hull, Cordell, 1871-1955</namePart>
+    </name>
+   <subject>
+      <topic>Lissim, Simon, 1900-1981</topic>
+    </subject>
+   <abstract>Letter from Harry Miller Lydenberg, then director of the New York Public Library, to the Secretary of State asking the Secretary to add Simon Lissim and his wife to the list of intellectuals with special visas to enter the United States during World War II.</abstract>
+   <typeOfResource>still image</typeOfResource>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+   <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+</mods>

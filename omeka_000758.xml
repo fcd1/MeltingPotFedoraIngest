@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">omeka_000758</identifier>
+   <titleInfo>
+      <title>Souvenir program of Anna Pavlova's American tour, cover page</title>
+    </titleInfo>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>printed ephemera</form>
+      <form>program</form>
+    </physicalDescription>
+   <originInfo>
+      <dateCreated encoding="w3cdtf"
+                   keyDate="yes"
+                   point="start"
+                   qualifier="inferred">1914</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1931</dateCreated>
+      <dateCreated>Between 1914 and 1931</dateCreated>
+      <publisher>A. Elar</publisher>
+      <place>
+        <placeTerm type="text">New York (N.Y.)</placeTerm>
+      </place>
+    </originInfo>
+   <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+        <title>The Melting Pot: Russian Jewish New York</title>
+      </titleInfo>
+      <location>
+        <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio8012143</url>
+      </location>
+    </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+        <title>Brander Matthews Dramatic Museum records</title>
+      </titleInfo>
+    </relatedItem>
+   <note>Date inferred from Anna Pavlova's tour dates.</note>
+   <note type="ownership">Brander Mathews Dramatic Museum, Rare Book &amp; Manuscript Library</note>
+   <note>original filename: 4_21_01.tif</note>
+   <name>
+      <namePart>Hurok, Sol, 1888-1974</namePart>
+    </name>
+   <name>
+      <namePart>Pavlova, Anna, 1881-1931</namePart>
+    </name>
+   <subject>
+      <topic>Pavlova, Anna, 1881-1931</topic>
+    </subject>
+   <typeOfResource>still image</typeOfResource>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+   <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+</mods>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">omeka_000488</identifier>
+   <titleInfo>
+      <title>Trial and Conviction of Emma Goldman and Alexander Berkman, pages 129 to 133, 161 to 163</title>
+    </titleInfo>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>periodicals</form>
+    </physicalDescription>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1917-07</dateCreated>
+      <dateCreated>July, 1917</dateCreated>
+      <publisher>Mother Earth Publishing Association</publisher>
+      <place>
+        <placeTerm type="text">New York</placeTerm>
+      </place>
+    </originInfo>
+   <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/fighters/emma_goldman</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+        <title>The Melting Pot: Russian Jewish New York</title>
+      </titleInfo>
+      <location>
+        <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio8012143</url>
+      </location>
+    </relatedItem>
+   <relatedItem type="original">
+      <titleInfo>
+        <title>Mother earth (New York, N.Y.)</title>
+      </titleInfo>
+    </relatedItem>
+   <note>original filename: 2_04_01.tif</note>
+   <note>original filename: 2_04_04.tif</note>
+   <note>original filename: 2_04_02.tif</note>
+   <note>original filename: 2_04_07.tif</note>
+   <note>original filename: 2_04_08.tif</note>
+   <note>original filename: 2_04_03.tif</note>
+   <note>original filename: 2_04_06.tif</note>
+   <note>original filename: 2_04_05.tif</note>
+   <subject>
+      <topic>Goldman, Emma, 1869-1940</topic>
+      <topic>Berkman, Alexander, 1870-1936.</topic>
+    </subject>
+   <abstract>In July 1917, Emma Goldman was sentenced to two years in prison as a result of her work in the No-Conscription League and her anti-war stand against World War I, which also caused Mother Earth to be shut down by the government. Article is on the her trial.
+
+
+
+Published in Mother Earth, volume XII, number 5.</abstract>
+   <typeOfResource>still image</typeOfResource>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+   <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+</mods>

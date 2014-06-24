@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">omeka_000838</identifier>
+   <identifier>CLIO id: 3158015</identifier>
+   <titleInfo>
+      <title>Troubled Air, back cover</title>
+    </titleInfo>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>books</form>
+      <form>photographs</form>
+    </physicalDescription>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1951</dateCreated>
+      <dateCreated>1951</dateCreated>
+      <publisher>Random House</publisher>
+      <place>
+        <placeTerm type="text">New York</placeTerm>
+      </place>
+    </originInfo>
+   <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/children/shaw</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+        <title>The Melting Pot: Russian Jewish New York</title>
+      </titleInfo>
+      <location>
+        <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio8012143</url>
+      </location>
+    </relatedItem>
+   <note>original filename: 6_10_01.tif</note>
+   <name>
+      <namePart>Shaw, Irwin, 1913-1984</namePart>
+    </name>
+   <name>
+      <namePart>Simon, Richard L.</namePart>
+    </name>
+   <subject>
+      <topic>Shaw, Irwin, 1913-1984</topic>
+    </subject>
+   <abstract>Portrait of Irwin Shaw on back cover.</abstract>
+   <typeOfResource>still image</typeOfResource>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+   <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+</mods>

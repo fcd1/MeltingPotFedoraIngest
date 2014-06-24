@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">omeka_000763</identifier>
+   <titleInfo>
+      <title>Letter from Sol Hurok to the Musicians Committee for Aid to Spanish Democracy</title>
+    </titleInfo>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>correspondence</form>
+    </physicalDescription>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1937-07-16</dateCreated>
+      <dateCreated>July 16, 1937</dateCreated>
+      <place>
+        <placeTerm type="text">Salzburg</placeTerm>
+      </place>
+    </originInfo>
+   <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/entertainers/hurok</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+        <title>The Melting Pot: Russian Jewish New York</title>
+      </titleInfo>
+      <location>
+        <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio8012143</url>
+      </location>
+    </relatedItem>
+   <note type="ownership">Gift of Mr. Herman Reissig, 1942</note>
+   <note type="ownership">Gift of Veterans of the Abraham Lincoln Brigade, 1979</note>
+   <note>original filename: 4_24_01.tif</note>
+   <name>
+      <namePart>Hurok, Sol, 1888-1974</namePart>
+    </name>
+   <name>
+      <namePart>Musicians Committee to Aid Spanish Democracy (New York, N.Y.)</namePart>
+    </name>
+   <subject>
+      <topic>Musicians Committee for the Aid to Spanish Democracy (New York, N.Y.)</topic>
+    </subject>
+   <abstract>The Musicians Committee for the Aid to Spanish Democracy had asked Sol Hurok to join their group as a sponsor. In this letter, he agrees.</abstract>
+   <typeOfResource>still image</typeOfResource>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+   <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+</mods>

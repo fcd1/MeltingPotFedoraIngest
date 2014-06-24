@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">omeka_000722</identifier>
+   <titleInfo>
+      <title>Kessler Second Avenue Theatre playbill, cover</title>
+    </titleInfo>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>printed ephemera</form>
+    </physicalDescription>
+   <originInfo>
+      <dateCreated encoding="w3cdtf"
+                   keyDate="yes"
+                   point="start"
+                   qualifier="inferred">1911</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1953</dateCreated>
+      <dateCreated>Between 1911 and 1953</dateCreated>
+      <place>
+        <placeTerm type="text">New York (N.Y.)</placeTerm>
+      </place>
+    </originInfo>
+   <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/entertainers/thalia</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+        <title>The Melting Pot: Russian Jewish New York</title>
+      </titleInfo>
+      <location>
+        <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio8012143</url>
+      </location>
+    </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+        <title>Brander Matthews Dramatic Museum records</title>
+      </titleInfo>
+    </relatedItem>
+   <note>original filename: 4_03_01.tif</note>
+   <name>
+      <namePart>Kessler Second Avenue Theatre</namePart>
+    </name>
+   <subject>
+      <topic>Picon, Molly</topic>
+      <topic>Rumshinsky, Joseph, 1881-1956</topic>
+      <topic>Kalich, Jacob, 1891-1975</topic>
+    </subject>
+   <abstract>Second avenue at Second street, New York.
+
+Portraits of Molly Picon, Joseph Rumshinsky, and Jacob Kalich on cover.</abstract>
+   <typeOfResource>still image</typeOfResource>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+   <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+</mods>

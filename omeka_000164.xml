@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">omeka_000164</identifier>
+   <titleInfo>
+      <title>Stella Adler</title>
+    </titleInfo>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>photographs</form>
+    </physicalDescription>
+   <originInfo>
+      <dateCreated encoding="w3cdtf"
+                   keyDate="yes"
+                   point="start"
+                   qualifier="inferred">1921</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1951</dateCreated>
+      <dateCreated>between 1921 and 1951</dateCreated>
+      <publisher>No place, no date</publisher>
+    </originInfo>
+   <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+        <title>The Melting Pot: Russian Jewish New York</title>
+      </titleInfo>
+      <location>
+        <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio8012143</url>
+      </location>
+    </relatedItem>
+   <note>Date inferred from Stella Adler life dates.</note>
+   <note type="ownership">Brander Matthews Dramatic Museum</note>
+   <note>original filename: adler.tif</note>
+   <name>
+      <namePart>Blechman, Marcus</namePart>
+    </name>
+   <subject>
+      <topic>Adler, Stella, 1901-1992</topic>
+    </subject>
+   <abstract>Portrait of Stella Adler, 1901–1992. American actress. Daughter of Russian-Jewish immigrants from Odessa, Jacob P. Adler and Sara Adler (nee Levitskaia). Born in New York City. For decades, she was regarded as America's foremost acting teacher. She was the only American actor to be instructed in the art of acting by Konstantin Stanislavski. Stella Adler was a prominent member of the Group Theatre. She founded the Actors Studio, which still operates in New York City today. Her method, based on the use of the actor's imagination, has been studied by many renowned actors, including Marlon Brando, Robert De Niro, Martin Sheen, and Roy Scheider.</abstract>
+   <typeOfResource>still image</typeOfResource>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+   <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+</mods>

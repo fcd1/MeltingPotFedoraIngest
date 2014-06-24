@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">omeka_000733</identifier>
+   <titleInfo>
+      <title>Letter from Sophie Tucker to Jane Howard</title>
+    </titleInfo>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>correspondence</form>
+    </physicalDescription>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1962-02-05</dateCreated>
+      <dateCreated>February 5, 1962</dateCreated>
+      <place>
+        <placeTerm type="text">New York (N.Y.)</placeTerm>
+      </place>
+    </originInfo>
+   <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/entertainers/tucker</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+        <title>The Melting Pot: Russian Jewish New York</title>
+      </titleInfo>
+      <location>
+        <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio8012143</url>
+      </location>
+    </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+        <title>Jane Howard Papers</title>
+      </titleInfo>
+    </relatedItem>
+   <note type="ownership">Gift of Jane Howard 1979, 1985, 1987, 1996</note>
+   <note>original filename: 4_08_02.tif</note>
+   <note>original filename: 4_08_01.tif</note>
+   <name>
+      <namePart>Tucker, Sophie, 1884-1966</namePart>
+    </name>
+   <name>
+      <namePart>Howard, Jane, 1935-</namePart>
+    </name>
+   <subject/>
+   <abstract>In April 1963, a Broadway musical entitled Sophie opened with Libi Staiger in the title role, based on Sophie’s early life until 1922. It closed after eight performances.</abstract>
+   <typeOfResource>still image</typeOfResource>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+   <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+</mods>

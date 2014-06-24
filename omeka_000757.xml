@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">omeka_000757</identifier>
+   <titleInfo>
+      <title>Ballet Russe de Monte Carlo program, cover</title>
+    </titleInfo>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>printed ephemera</form>
+    </physicalDescription>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1938-10-18</dateCreated>
+      <dateCreated>October 18, 1938</dateCreated>
+      <place>
+        <placeTerm type="text">New York (N.Y.)</placeTerm>
+      </place>
+    </originInfo>
+   <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/entertainers/hurok</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+        <title>The Melting Pot: Russian Jewish New York</title>
+      </titleInfo>
+      <location>
+        <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio8012143</url>
+      </location>
+    </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+        <title>Brander Matthews Dramatic Museum records</title>
+      </titleInfo>
+    </relatedItem>
+   <note>original filename: 4_20_01.tif</note>
+   <name>
+      <namePart>Ballet Russe de Monte Carlo</namePart>
+    </name>
+   <name>
+      <namePart>Massine, Leonide, 1896-1979</namePart>
+    </name>
+   <name>
+      <namePart>Hurok, Sol, 1888-1974</namePart>
+    </name>
+   <name>
+      <namePart>Metropolitan Opera (New York, N.Y.)</namePart>
+    </name>
+   <subject>
+      <topic>Ballet Russe de Monte Carlo</topic>
+      <topic>Massine, Leonide, 1896-1979</topic>
+    </subject>
+   <abstract>Program for the Ballet Russe de Monte Carlo, directed by Leonide Massine. Presented by Sol Hurok, at the Metropolitan Opera House. Portrait of Leonide Massine, artistic directory of Ballet Russe, on front cover.</abstract>
+   <typeOfResource>still image</typeOfResource>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+   <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+</mods>

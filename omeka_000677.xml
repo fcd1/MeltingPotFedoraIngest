@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">omeka_000677</identifier>
+   <titleInfo>
+      <title>Photographs of the Members of the Jewish Labor Committee</title>
+    </titleInfo>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>photographs</form>
+    </physicalDescription>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1934</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1952</dateCreated>
+      <dateCreated>Between 1934 and 1952</dateCreated>
+    </originInfo>
+   <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/fighters/dubinsky</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+        <title>The Melting Pot: Russian Jewish New York</title>
+      </titleInfo>
+      <location>
+        <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio8012143</url>
+      </location>
+    </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+        <title>BAR Boris Sapir Papers</title>
+      </titleInfo>
+    </relatedItem>
+   <note type="ownership">Gift of Sapir family, 1990</note>
+   <note>original filename: 2_16_01.tif</note>
+   <subject>
+      <topic>Green, William, 1870-1952</topic>
+      <topic>Dubinsky, David, 1892-1982</topic>
+      <topic>Lang, H. (Harry), 1888-</topic>
+      <topic>Jewish Labor Committee (U.S.)</topic>
+    </subject>
+   <abstract>David Dubinsky (1892-1982), one of the most influential labor leaders of 20th century America. He managed to make his way to the United States in 1911 after escaping while in transit to exile in Siberia. He was being sent there by the Tsarist authorities for participation in the activities and strikes of the bakers' union. During his long political career, he held many high posts (being a prominent member of the Jewish Labor Committee was one of them), took part in the creation of the Congress of Industrial Organizations (CIO), and was one of the founders of the American Labor Party and the Liberal Party of New York.</abstract>
+   <typeOfResource>still image</typeOfResource>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+   <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+</mods>

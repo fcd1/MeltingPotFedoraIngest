@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">omeka_000761</identifier>
+   <titleInfo>
+      <title>Program of Fedor Shaliapin's American tour, pages 27 through 30</title>
+    </titleInfo>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>printed ephemera</form>
+    </physicalDescription>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1907</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1938</dateCreated>
+      <dateCreated>between 1907 and 1938</dateCreated>
+    </originInfo>
+   <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/entertainers/hurok</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+        <title>The Melting Pot: Russian Jewish New York</title>
+      </titleInfo>
+      <location>
+        <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio8012143</url>
+      </location>
+    </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+        <title>BAR Vladimir Zeeler Papers</title>
+      </titleInfo>
+    </relatedItem>
+   <note type="ownership">Purchase, 1957-1960</note>
+   <note>original filename: 4_23_02.tif</note>
+   <note>original filename: 4_23_01.tif</note>
+   <name>
+      <namePart>Chaliapin, Fyodor Ivanovich, 1873-1938</namePart>
+    </name>
+   <subject>
+      <topic>Chaliapin, Fyodor Ivanovich, 1873-1938</topic>
+    </subject>
+   <abstract>Includes two pages from his 'Song of books' and portraits of him in the costumes of various roles.</abstract>
+   <typeOfResource>still image</typeOfResource>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+   <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+</mods>

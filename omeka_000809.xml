@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">omeka_000809</identifier>
+   <titleInfo>
+      <title>Runaway Soldier and the Other: Tales of Old Russia, Smocking Animals illustration, verso</title>
+    </titleInfo>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>illustrations</form>
+    </physicalDescription>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="inferred">1946</dateCreated>
+      <dateCreated>1946</dateCreated>
+    </originInfo>
+   <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+        <title>The Melting Pot: Russian Jewish New York</title>
+      </titleInfo>
+      <location>
+        <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio8012143</url>
+      </location>
+    </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+        <title>Simon Lissim Papers</title>
+      </titleInfo>
+    </relatedItem>
+   <note>Date inferred from publication of book with above illustration.</note>
+   <note type="ownership">Simon Lissim Papers, Bakhmeteff Archive, Rare Book &amp; Manuscript Library, Simon Lissim, 1981 and Dorothea Waples Lissim, 1982</note>
+   <note>original filename: 5_25_05.tif</note>
+   <name>
+      <namePart>Lissim, Simon, 1900-1981</namePart>
+    </name>
+   <name>
+      <namePart>Gottschalk, Fruma, 1900-1995</namePart>
+    </name>
+   <subject/>
+   <abstract>Verso of an illustration of smocking animals in a story from The Runaway Soldier and the Other Tales of Old Russia, retold by Fruma Gottschalk, illustrated by Simon Lissim.</abstract>
+   <typeOfResource>still image</typeOfResource>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+   <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+</mods>

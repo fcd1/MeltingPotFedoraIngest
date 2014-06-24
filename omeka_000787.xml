@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">omeka_000787</identifier>
+   <titleInfo>
+      <title>Costume drawing by Mikhail Larionov sent to Simon Lissim</title>
+    </titleInfo>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>prints</form>
+      <form>drawings</form>
+      <form>manuscripts</form>
+    </physicalDescription>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1922-10-17</dateCreated>
+      <dateCreated>October 17, 1922</dateCreated>
+    </originInfo>
+   <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/artists/larionov</url>
+      <holdingSimple>
+        <copyInformation>
+            <subLocation>Bakhmeteff Archive of Russian and East European History and Culture</subLocation>
+        </copyInformation>
+      </holdingSimple>
+    </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+        <title>The Melting Pot: Russian Jewish New York</title>
+      </titleInfo>
+      <location>
+        <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio8012143</url>
+      </location>
+    </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+        <title>Simon Lissim Papers</title>
+      </titleInfo>
+    </relatedItem>
+   <note type="ownership">Gift of Simon Lissim, 1981 and Dorothea Waples Lissim, 1982</note>
+   <note>original filename: 5_13_01.tif</note>
+   <name>
+      <namePart>Larionov, Mikhail Fedorovich, 1881-1964</namePart>
+    </name>
+   <name>
+      <namePart>Lissim, Simon, 1900-1981</namePart>
+    </name>
+   <subject/>
+   <abstract>Print of a drawing by Mikhail Larionov of man in costume, sent to Simon Lissim. Writing in Russian at bottom of print gives date, message to Lissim.</abstract>
+   <typeOfResource>still image</typeOfResource>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">rus</languageTerm>
+    </language>
+   <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+</mods>

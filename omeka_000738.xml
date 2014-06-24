@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">omeka_000738</identifier>
+   <titleInfo>
+      <title>God Bless America</title>
+    </titleInfo>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>music</form>
+    </physicalDescription>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1932</dateCreated>
+      <dateCreated>1932</dateCreated>
+      <publisher>Irving Berlin Inc.</publisher>
+      <place>
+        <placeTerm type="text">New York City</placeTerm>
+      </place>
+    </originInfo>
+   <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/entertainers/berlin_astaire</url>
+      <holdingSimple>
+        <copyInformation/>
+      </holdingSimple>
+    </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+        <title>The Melting Pot: Russian Jewish New York</title>
+      </titleInfo>
+      <location>
+        <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio8012143</url>
+      </location>
+    </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+        <title>Hunt-Berol Sheet Music Collection</title>
+      </titleInfo>
+    </relatedItem>
+   <note type="ownership">Gift of Mr. and Mrs. Alfred C. Berol, 1964 &amp; 1966</note>
+   <note>original filename: 4_11_05.tif</note>
+   <note>original filename: 4_11_04.tif</note>
+   <note>original filename: 4_11_02.tif</note>
+   <note>original filename: 4_11_03.tif</note>
+   <note>original filename: 4_11_01.tif</note>
+   <name>
+      <namePart>Berlin, Irving, 1888-1989</namePart>
+    </name>
+   <subject/>
+   <abstract>Sheet music of the American “unofficial national anthem.”</abstract>
+   <typeOfResource>still image</typeOfResource>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+   <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+</mods>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">omeka_000472</identifier>
+   <titleInfo>
+      <title>Perevody "Protokolovʺ"</title>
+    </titleInfo>
+   <titleInfo>
+      <title>Translators of the "Protocols"</title>
+    </titleInfo>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>pamphlets</form>
+    </physicalDescription>
+   <originInfo>
+      <dateCreated encoding="w3cdtf"
+                   keyDate="yes"
+                   point="start"
+                   qualifier="inferred">1900</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1920</dateCreated>
+      <dateCreated>between 1900 and 1920</dateCreated>
+      <place>
+        <placeTerm type="text">Russia</placeTerm>
+      </place>
+    </originInfo>
+   <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/background/protocols_zion</url>
+      <holdingSimple>
+        <copyInformation>
+            <subLocation>Bakhmeteff Archive of Russian and East European History and Culture</subLocation>
+        </copyInformation>
+      </holdingSimple>
+    </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+        <title>The Melting Pot: Russian Jewish New York</title>
+      </titleInfo>
+      <location>
+        <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio8012143</url>
+      </location>
+    </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+        <title>Sergei Grigor'evich Svatikov Papers</title>
+      </titleInfo>
+    </relatedItem>
+   <note>original filename: 1_13_01.tif</note>
+   <note>original filename: 1_13_02.tif</note>
+   <name>
+      <namePart>Nilus, Sergi︠e︡ĭ, 1862-1930</namePart>
+    </name>
+   <subject>
+      <topic>Protocols of the wise men of Zion</topic>
+    </subject>
+   <abstract>An instruction manual on how to translate The Protocols of the Elders of Zion. 
+
+
+
+The Protocols of the Elders of Zion is the infamous Russian literary hoax published by the Tsar's secret police. A key element of anti-Semitic thought has been the belief that Jews influence or control world events. The author of the manual instructs translators to use the Russian version as their principal text but to make all necessary additions and corrections in their translations for each specific country.</abstract>
+   <typeOfResource>still image</typeOfResource>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">rus</languageTerm>
+    </language>
+   <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+</mods>

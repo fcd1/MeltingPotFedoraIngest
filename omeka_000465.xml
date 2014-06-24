@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">omeka_000465</identifier>
+   <titleInfo>
+      <title>Poslednee slovo po Delu Beilisa, frontispiece and pages 1 through 13</title>
+    </titleInfo>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>manuscripts</form>
+    </physicalDescription>
+   <originInfo>
+      <dateCreated encoding="w3cdtf"
+                   keyDate="yes"
+                   point="start"
+                   qualifier="inferred">1911</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1929</dateCreated>
+      <dateCreated>between 1911 and 1929</dateCreated>
+    </originInfo>
+   <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/background/koshko</url>
+      <holdingSimple>
+        <copyInformation>
+            <subLocation>Bakhmeteff Archive of Russian and East European History and Culture</subLocation>
+        </copyInformation>
+      </holdingSimple>
+    </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+        <title>The Melting Pot: Russian Jewish New York</title>
+      </titleInfo>
+      <location>
+        <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio8012143</url>
+      </location>
+    </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+        <title>Koshko Family Memoirs</title>
+      </titleInfo>
+    </relatedItem>
+   <note type="ownership">Purchase</note>
+   <note>original filename: 1_14_01.tif</note>
+   <note>original filename: 1_14_02.tif</note>
+   <note>original filename: 1_14_03.tif</note>
+   <note>original filename: 1_14_04.tif</note>
+   <note>original filename: 1_14_05.tif</note>
+   <note>original filename: 1_14_06.tif</note>
+   <note>original filename: 1_14_07.tif</note>
+   <note>original filename: 1_14_08.tif</note>
+   <note>original filename: 1_14_09.tif</note>
+   <note>original filename: 1_14_10.tif</note>
+   <note>original filename: 1_14_11.tif</note>
+   <note>original filename: 1_14_12.tif</note>
+   <note>original filename: 1_14_13.tif</note>
+   <note>original filename: 1_14_14.tif</note>
+   <name>
+      <namePart>Koshko, A. F. (Arkadiĭ Frant︠s︡evich), 1867-1928 or 1929</namePart>
+    </name>
+   <subject>
+      <topic>Beĭlis, Mendelʹ, 1874-1934</topic>
+    </subject>
+   <abstract>Arkadii Frantsevich Koshko was a chief of Moscow Criminal Investigation Department. This excerpt from his memoirs concerns the Beilis ritual murder case. On March 20, 1911, the mutilated body of a twelve-year-old boy was discovered in a cave near Kiev, Ukraine. Although a police investigation pointed to a gang of thieves, pressure from anti-Semitic organizations led to the arrest of a Jewish scapegoat, Menahem Mendel Beilis. The Beilis trial attracted worldwide attention, inspiring protests and public outcries by political leaders, artists, clergymen, and many others. Beilis was imprisoned for more than two years, found not guilty, and with his family left Russia for the Land of Israel. In 1920 he settled in the United States. He died in 1934 in New York and was buried in the Bronx.</abstract>
+   <typeOfResource>still image</typeOfResource>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">rus</languageTerm>
+    </language>
+   <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+</mods>

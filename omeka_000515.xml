@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">omeka_000515</identifier>
+   <titleInfo>
+      <title>Zadachi i taktiki RSDRP v e̋migrat︠s︡ii</title>
+    </titleInfo>
+   <titleInfo>
+      <title>RSDRP Goals and Tactics in the Emigration</title>
+    </titleInfo>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>manuscripts</form>
+    </physicalDescription>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes">1951-05-01</dateCreated>
+      <dateCreated>May 1, 1951</dateCreated>
+    </originInfo>
+   <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/fighters/rsdrp</url>
+      <holdingSimple>
+        <copyInformation>
+            <subLocation>Bakhmeteff Archive of Russian and East European History and Culture</subLocation>
+        </copyInformation>
+      </holdingSimple>
+    </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+        <title>The Melting Pot: Russian Jewish New York</title>
+      </titleInfo>
+      <location>
+        <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio8012143</url>
+      </location>
+    </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+        <title>Boris Moiseevich Sapir Papers</title>
+      </titleInfo>
+    </relatedItem>
+   <note type="ownership">Gift of Dr. Sapir’s family, 1990</note>
+   <note>original filename: 2_10_01.tif</note>
+   <note>original filename: 2_10_02.tif</note>
+   <name>
+      <namePart>Aronson, G. S. (Grigorīĭ Semenov)</namePart>
+    </name>
+   <name>
+      <namePart>Dvinov, Boris L.</namePart>
+    </name>
+   <name>
+      <namePart>Sapir, Boris</namePart>
+    </name>
+   <subject>
+      <topic>Rossiĭskai︠a︡ sot︠s︡ial-demokraticheskai︠a︡ rabochai︠a︡ partii︠a︡</topic>
+    </subject>
+   <abstract>Living in exile, Aronson, Dvinov and Sapir still discussed the present and future of Russia, and dedicated their lives to fighting the Bol’shevik dictatorship.</abstract>
+   <typeOfResource>still image</typeOfResource>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">rus</languageTerm>
+    </language>
+   <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+</mods>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">omeka_000512</identifier>
+   <titleInfo>
+      <title>Pavel Akselrod, Iulii Martov, and Aleksandr Martynov, photograph with explanatory note</title>
+    </titleInfo>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>photographs</form>
+      <form>correspondence</form>
+    </physicalDescription>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1916</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1950-02-02</dateCreated>
+      <dateCreated>1916</dateCreated>
+      <dateCreated>February 2, 1950</dateCreated>
+      <place>
+        <placeTerm type="text">Zurich</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">New York</placeTerm>
+      </place>
+    </originInfo>
+   <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/fighters/fighters</url>
+      <holdingSimple>
+        <copyInformation>
+            <subLocation>Bakhmeteff Archive of Russian and East European History and Culture</subLocation>
+        </copyInformation>
+      </holdingSimple>
+    </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+        <title>The Melting Pot: Russian Jewish New York</title>
+      </titleInfo>
+      <location>
+        <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio8012143</url>
+      </location>
+    </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+        <title>Boris Moiseevich Sapir Papers</title>
+      </titleInfo>
+    </relatedItem>
+   <note type="ownership">Gift of Dr. Sapir’s family, 1990</note>
+   <note>original filename: 2_09_01.tif</note>
+   <note>original filename: 2_09_02.tif</note>
+   <name>
+      <namePart>Dan, Lidii︠a︡</namePart>
+    </name>
+   <name>
+      <namePart>Sapir, Boris</namePart>
+    </name>
+   <subject>
+      <topic>Akselʹrod, P. B. (Pavel Borisovich), 1850-1928</topic>
+      <topic>Martov, L., 1873-1923</topic>
+      <topic>Martynov, A. S. (Aleksandr Samoĭlovich), 1865-1935</topic>
+    </subject>
+   <abstract>Photo of Men’shevik leaders and accompanying explanatory note written by Lidiia Dan to Boris Sapir. The note describes a little quarrel between Martov and Aksel’rod caught on this photo.  
+
+
+
+The photo was taken in Zurich in 1916, the note was written in New York on February 2, 1950.</abstract>
+   <typeOfResource>still image</typeOfResource>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">rus</languageTerm>
+    </language>
+   <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+</mods>

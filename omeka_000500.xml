@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">omeka_000500</identifier>
+   <titleInfo>
+      <title>Correspondence between Rafail Abramovich and Emma Goldman</title>
+    </titleInfo>
+   <physicalDescription>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+      <form>correspondence</form>
+    </physicalDescription>
+   <originInfo>
+      <dateCreated encoding="w3cdtf" keyDate="yes" point="start">1937-07-28</dateCreated>
+      <dateCreated encoding="w3cdtf" point="end">1937-08-12</dateCreated>
+      <dateCreated>July 28 - August 12 1937</dateCreated>
+      <place>
+        <placeTerm type="text">Paris</placeTerm>
+      </place>
+    </originInfo>
+   <location>
+      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/fighters/rsdrp</url>
+      <holdingSimple>
+        <copyInformation>
+            <subLocation>Bakhmeteff Archive of Russian and East European History and Culture</subLocation>
+        </copyInformation>
+      </holdingSimple>
+    </location>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+        <title>The Melting Pot: Russian Jewish New York</title>
+      </titleInfo>
+      <location>
+        <url>http://www.columbia.edu/cgi-bin/cul/resolve?clio8012143</url>
+      </location>
+    </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+        <title>Boris Moiseevich Sapir Papers</title>
+      </titleInfo>
+    </relatedItem>
+   <note type="ownership">Gift of Dr. Sapir’s family, 1990</note>
+   <note>original filename: 2_07_01.tif</note>
+   <note>original filename: 2_08_01.tif</note>
+   <note>original filename: 2_06_01.tif</note>
+   <note>original filename: 2_06_02.tif</note>
+   <note>original filename: 2_06_03.tif</note>
+   <note>original filename: 2_06_04.tif</note>
+   <name>
+      <namePart>Abramovitch, Raphael R., 1880-</namePart>
+    </name>
+   <name>
+      <namePart>Goldman, Emma, 1869-1940</namePart>
+    </name>
+   <subject/>
+   <abstract>Rafail Abramovich (Rein), born in Dvinsk, Russia 1880, died in New York 1963. One of the leaders of the Menshevik fraction of the Russian Social Democratic Labor Party and Yiddish and Russian journalist. In 1918, he narrowly escaped the death sentence in Russia. He left Russia for Berlin in 1920 and later emigrated to the USA.
+
+
+
+Correspondence between Rafail Abramovich and Emma Goldman concerns the mysterious murder of his son, Mark Rein, who was evidently killed by communist agents in Spain in 1937. Besides Emma Goldman, Abramovich corresponded with many socialist colleagues in an attempt to ascertain the circumstances of his son's death, including Abraham Cahan, Karl Kautskii, and Norman Thomas.</abstract>
+   <typeOfResource>still image</typeOfResource>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">rus</languageTerm>
+    </language>
+   <recordInfo>
+      <languageOfCataloging>
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordContentSource authority="marcorg">NNC</recordContentSource>
+      <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
+    </recordInfo>
+</mods>
