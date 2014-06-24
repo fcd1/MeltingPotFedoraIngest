@@ -1,4 +1,4 @@
-FrancesPerkinsFedoraIngest
+MeltingPotFedoraIngest
 ==========================
 
 Contains the needed inputs for the ingest into Fedora - MODS files, mapping MODS file to TIFF file(s)
