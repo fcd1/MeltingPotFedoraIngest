@@ -21,9 +21,6 @@
    <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/entertainers/thalia</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
    <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -37,7 +34,6 @@
    <name>
       <namePart>Comedy Theatre (Organization : New York, N.Y.)</namePart>
     </name>
-   <subject/>
    <abstract>Program for the play The Melting Pot, written by Israel Zangwill and performed at the Comedy Theatre.</abstract>
    <typeOfResource>still image</typeOfResource>
    <language>

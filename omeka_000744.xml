@@ -22,9 +22,6 @@
    <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/entertainers/berlin_astaire</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
    <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -48,12 +45,7 @@
    <name>
       <namePart>Berlin, Irving, 1888-1989</namePart>
     </name>
-   <subject/>
-   <abstract>“Alexander’s Ragtime Band is the real father of all ragtime, all jazz, all swing, and everything that is best in my collection of songs.” – Richard L. Simon
-
-
-
-Sheet music.</abstract>
+   <abstract>“Alexander’s Ragtime Band is the real father of all ragtime, all jazz, all swing, and everything that is best in my collection of songs.” – Richard L. Simon. Sheet music.</abstract>
    <typeOfResource>still image</typeOfResource>
    <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>

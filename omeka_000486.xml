@@ -21,9 +21,6 @@
    <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/fighters/emma_goldman</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
    <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -45,7 +42,6 @@
    <name>
       <namePart>Kenton, Edna, 1876-1954</namePart>
     </name>
-   <subject/>
    <abstract>Emma Goldman wrote to Edna Kenton to ask for help advertising a series of lectures at the Berkley Theatre.</abstract>
    <typeOfResource>still image</typeOfResource>
    <language>

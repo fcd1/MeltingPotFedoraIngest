@@ -22,9 +22,6 @@
    <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/fighters/emma_goldman</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
    <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -46,7 +43,6 @@
    <name>
       <namePart>Goldman, Emma, 1869-1940</namePart>
     </name>
-   <subject/>
    <abstract>Poem on birth control, written by Fred A. Pease in Mother Earth magazine.</abstract>
    <typeOfResource>still image</typeOfResource>
    <language>

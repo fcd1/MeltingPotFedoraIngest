@@ -17,9 +17,6 @@
     </originInfo>
    <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
    <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -43,7 +40,6 @@
    <name>
       <namePart>Gottschalk, Fruma, 1900-1995</namePart>
     </name>
-   <subject/>
    <abstract>Verso of an illustration of big, blue and white in a story from The Runaway Soldier and the Other Tales of Old Russia, retold by Fruma Gottschalk, illustrated by Simon Lissim.</abstract>
    <typeOfResource>still image</typeOfResource>
    <language>

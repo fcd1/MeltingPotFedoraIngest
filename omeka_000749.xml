@@ -21,9 +21,6 @@
    <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/entertainers/berlin_astaire</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
    <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -46,7 +43,6 @@
    <name>
       <namePart>Simon, Richard L. (Richard Leo), 1899-1960</namePart>
     </name>
-   <subject/>
    <typeOfResource>still image</typeOfResource>
    <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>

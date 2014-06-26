@@ -22,9 +22,6 @@
     </originInfo>
    <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
    <relatedItem displayLabel="Project" type="host">
       <titleInfo>

@@ -21,9 +21,6 @@
    <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/fighters/emma_goldman</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
    <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -45,12 +42,7 @@
    <name>
       <namePart>Steffens, Lincoln, 1866-1936</namePart>
     </name>
-   <subject/>
-   <abstract>In 1919, the United States was caught up in hysteria over a network of communist operatives. “Red Emma,” as she was called, was declared a subversive alien and in December, along with Alexander Berkman and 247 others, was deported to Soviet Russia. Her stay there was brief. It did not take her long to realize that the Bolsheviks were neither lovers of freedom nor partisans of workers' control. What had been created there was a massive dictatorship.
-
-
-
-She left Russia in 1922 and remained active, moving from country to country. She was prohibited from entering the United States.</abstract>
+   <abstract>In 1919, the United States was caught up in hysteria over a network of communist operatives. “Red Emma,” as she was called, was declared a subversive alien and in December, along with Alexander Berkman and 247 others, was deported to Soviet Russia. Her stay there was brief. It did not take her long to realize that the Bolsheviks were neither lovers of freedom nor partisans of workers' control. What had been created there was a massive dictatorship. She left Russia in 1922 and remained active, moving from country to country. She was prohibited from entering the United States.</abstract>
    <typeOfResource>still image</typeOfResource>
    <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>

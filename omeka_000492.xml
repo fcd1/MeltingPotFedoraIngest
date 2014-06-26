@@ -21,9 +21,6 @@
     </originInfo>
    <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
    <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -54,4 +51,5 @@
       <recordContentSource authority="marcorg">NNC</recordContentSource>
       <recordOrigin>Created and edited in general conformance to MODS Guideline (Version 3).</recordOrigin>
     </recordInfo>
+   <genre>Still image</genre>
 </mods>

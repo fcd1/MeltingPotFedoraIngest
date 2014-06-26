@@ -22,9 +22,6 @@
    <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/fighters/emma_goldman</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
    <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -51,11 +48,7 @@
       <topic>Goldman, Emma, 1869-1940</topic>
       <topic>Berkman, Alexander, 1870-1936.</topic>
     </subject>
-   <abstract>In July 1917, Emma Goldman was sentenced to two years in prison as a result of her work in the No-Conscription League and her anti-war stand against World War I, which also caused Mother Earth to be shut down by the government. Article is on the her trial.
-
-
-
-Published in Mother Earth, volume XII, number 5.</abstract>
+   <abstract>In July 1917, Emma Goldman was sentenced to two years in prison as a result of her work in the No-Conscription League and her anti-war stand against World War I, which also caused Mother Earth to be shut down by the government. Article is on the her trial. Published in Mother Earth, volume XII, number 5.</abstract>
    <typeOfResource>still image</typeOfResource>
    <language>
       <languageTerm type="code" authority="iso639-2b">eng</languageTerm>

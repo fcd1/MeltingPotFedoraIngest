@@ -21,9 +21,6 @@
    <location>
       <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/entertainers/thalia</url>
-      <holdingSimple>
-        <copyInformation/>
-      </holdingSimple>
     </location>
    <relatedItem displayLabel="Project" type="host">
       <titleInfo>
@@ -39,7 +36,6 @@
       </titleInfo>
     </relatedItem>
    <note>original filename: 4_01_01.tif</note>
-   <subject/>
    <abstract>Thalia Theatre, 46 Bowery, New York, on the West Side of the Bowery Just Below Canal Street</abstract>
    <typeOfResource>still image</typeOfResource>
    <language>
