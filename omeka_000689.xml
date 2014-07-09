@@ -20,7 +20,7 @@
       <dateCreated>Between 1925 and 1927</dateCreated>
     </originInfo>
    <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/writers/joseph_ginsburg</url>
       <holdingSimple>
         <copyInformation>

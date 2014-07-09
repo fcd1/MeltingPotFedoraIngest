@@ -20,7 +20,7 @@
       <dateCreated>between 1900 and 1968</dateCreated>
     </originInfo>
    <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/background/background</url>
       <holdingSimple>
         <copyInformation>

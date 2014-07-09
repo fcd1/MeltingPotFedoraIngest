@@ -16,7 +16,7 @@
       <dateCreated>1946</dateCreated>
     </originInfo>
    <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
     </location>
    <relatedItem displayLabel="Project" type="host">
       <titleInfo>

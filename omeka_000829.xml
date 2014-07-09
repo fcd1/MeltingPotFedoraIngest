@@ -20,7 +20,7 @@
       <dateCreated>between 1920 and 1950</dateCreated>
     </originInfo>
    <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/children/adler</url>
     </location>
    <relatedItem displayLabel="Project" type="host">

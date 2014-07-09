@@ -20,7 +20,7 @@
       <dateCreated>between 1902 and 1909</dateCreated>
     </originInfo>
    <location>
-      <physicalLocation type="code" authority="marcorg">NNC-RB</physicalLocation>
+      <physicalLocation authority="marcorg">NNC-RB</physicalLocation>
       <url access="object in context" usage="primary display">https://exhibitions.cul.columbia.edu/exhibits/show/melting-pot/children/street-scenes</url>
       <holdingSimple>
         <copyInformation>
